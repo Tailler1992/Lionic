@@ -136,7 +136,7 @@ body {
 /* HERO  ----------------------------------*/
 
 .section-hero {
-    background: url("img/hero.jpg") right center no-repeat white;
+    background: url("../img/hero.jpg") right center no-repeat white;
     background-size: cover;
 }
 .section-hero__container {
@@ -180,7 +180,7 @@ body {
     width: 13px;
     height: 17px;
     margin-right: 10px;
-    background: url("img/ssl.svg") center center no-repeat transparent;
+    background: url("../img/ssl.svg") center center no-repeat transparent;
     background-size: contain;
     transform: translateY(-1px);
 }
@@ -338,13 +338,13 @@ body {
     background-color: transparent;
 }
 .section-contacts__icon-gps {
-    background-image: url(img/gps.png);
+    background-image: url(../img/gps.png);
 }
 .section-contacts__icon-phone {
-    background-image: url(img/phone.png);
+    background-image: url(../img/phone.png);
 }
 .section-contacts__icon-mail {
-    background-image: url(img/mail.png);
+    background-image: url(../img/mail.png);
     background-size: auto 19px;
 }
 .section-contacts__heading {
@@ -492,16 +492,16 @@ body {
 .footer__social-icon_tw {
     width: 18px;
     height: 15px;
-    background-image: url("img/twitter.svg");
+    background-image: url("../img/twitter.svg");
 }
 .footer__social-icon_in {
     width: 18px;
     height: 19px;
-    background-image: url("img/linkedin.svg");
+    background-image: url("../img/linkedin.svg");
     transform: translateY(-2px);
 }
 .footer__social-icon_email {
     width: 24px;
     height: 17px;
-    background-image: url("img/email.svg");
+    background-image: url("../img/email.svg");
 }
